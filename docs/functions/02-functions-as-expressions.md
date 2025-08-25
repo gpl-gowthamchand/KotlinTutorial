@@ -518,3 +518,4 @@ Excellent! You've mastered functions as expressions in Kotlin. Now you're ready 
 - ✅ You're ready to create elegant, functional Kotlin code!
 
 **Keep practicing and happy coding! 🎉**
+

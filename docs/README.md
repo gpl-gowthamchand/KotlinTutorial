@@ -57,6 +57,7 @@ Welcome to the comprehensive Kotlin learning guide! This documentation is organi
 - [Lists](collections/02-lists.md) → [Code](src/41_list.kt)
 - [Maps and HashMaps](collections/03-maps.md) → [Code](src/42_map_hashmap.kt)
 - [Sets and HashSets](collections/04-sets.md) → [Code](src/43_set_hashset.kt)
+- [Filter, Map, and Sorting](collections/05-filter-map-sorting.md) → [Code](src/44_filter_map_sorting.kt)
 
 #### **Null Safety**
 - [Null Safety](null-safety/01-null-safety.md) → [Code](src/46_null_safety.kt)
