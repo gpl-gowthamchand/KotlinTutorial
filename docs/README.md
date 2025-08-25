@@ -1,124 +1,115 @@
-# 📚 Kotlin Tutorial Documentation
+# Kotlin Programming Tutorial for Beginners 
+Learn Kotlin Programming, its basics and Fundamentals from scratch. 
 
-Welcome to the comprehensive Kotlin learning guide! This documentation is organized by topic and provides detailed explanations with practical examples.
+## Topics to be covered
+0. **Overview**
+    - [Course introduction, prerequisites and software required](basics/01-hello-world.md)
+1. **Installation**
+    - Install required softwares for Windows, MAC and Linux (Ubuntu)
+2. **Getting Started with Kotlin Programming**
+    - [Run your first app in Kotlin](basics/01-hello-world.md)
+3. **Exploring Data Types and Variables** 
+    - [Data Types and Variables](basics/02-variables-data-types.md)
+    - [String, Literals and String Interpolation](basics/05-string-interpolation.md)
+    - [Comments](basics/03-comments.md)
+4. **Constants, Variables and Data Types**
+    - [Data Types Deep Dive](basics/04-data-types.md)
+    - [Ranges and Sequences](basics/06-ranges.md)
+5. **Control Flow Statements** 
+    - [IF ELSE](control-flow/01-if-expressions.md)
+    - [IF Expressions](control-flow/01-if-expressions.md)
+    - [WHEN Expressions](control-flow/02-when-expressions.md)
+6. **Loop Control Statements** 
+    - What are Iterators?
+    - [FOR Loop and how it works](control-flow/03-for-loops.md)
+    - [WHILE Loop](control-flow/04-while-loops.md)
+    - [DO WHILE Loop](control-flow/04-while-loops.md)
+    - [BREAK statements](control-flow/05-break-continue.md)
+    - [CONTINUE keyword](control-flow/05-break-continue.md)
+    - Labelled FOR Loop 
+7. **Functions and Interoperability** 
+    - [Declaring functions](functions/01-functions-basics.md)
+    - [Interoperability with Java code](advanced/01-kotlin-interoperability.md)
+    - [Function as Expressions](functions/02-functions-expressions.md)
+    - [Extension Functions](functions/03-extension-functions.md)
+    - [Infix Functions](functions/04-infix-functions.md)
+    - Default Parameters
+    - [Named Parameters](functions/05-named-parameters.md)
+    - Tailrec Functions 
+8. **Object Oriented Programming in Kotlin** 
+    - [Defining Class and creating Objects](oop/01-classes-constructors.md)
+    - INIT block
+    - [Primary and Secondary Constructors](oop/01-classes-constructors.md)
+    - Properties (Field variables)
+    - [Inheritance](oop/02-inheritance.md)
+    - [Method and Property Overriding](oop/03-method-overriding.md)
+    - Polymorphism 
+    - [Abstract Class, Property and Method](oop/04-abstract-classes.md)
+    - [Interface](oop/05-interfaces.md)
+    - [Data Class](oop/06-data-classes.md)
+    - Object Declaration
+    - [Enum class](oop/07-enums-sealed-classes.md)
+    - [Sealed class](oop/07-enums-sealed-classes.md)
+    - [Companion Object](oop/07-enums-sealed-classes.md)
+9. **Functional Programming in Kotlin**
+    - [Lambdas](functional-programming/01-lambdas.md)
+    - [Higher-Order Functions](functional-programming/01-lambdas.md)
+    - Closures
+    - 'it' keyword
+    - ['with' function](functional-programming/02-scope-functions.md)
+    - ['apply' function](functional-programming/02-scope-functions.md)
+    - [Advanced Scope Functions: let, also, run](functional-programming/03-let-also-run.md)
+10. **Collections in Kotlin**
+    - [Arrays](collections/01-arrays.md)
+    - [List](collections/02-lists.md)
+    - [Map and HashMap](collections/03-maps.md)
+    - [Set and HashSet](collections/04-sets.md)
+11. **Sorting and Filtering**
+    - ["filter" function](collections/05-filter-map-sorting.md)
+    - ["map" function](collections/05-filter-map-sorting.md)
+    - [Predicates: all, any, find, count](functional-programming/04-predicates.md)
+12. **Kotlin NULL Safety**
+    - [Safe call](null-safety/01-null-safety.md)
+    - with Let
+    - [Elvis](null-safety/01-null-safety.md)
+    - [Lateinit keyword](null-safety/02-lateinit-lazy.md)
+    - [Lazy delegation and 'lateinit' vs. 'lazy'](null-safety/02-lateinit-lazy.md)
+13. **Scope Functions**
+    - [with](functional-programming/02-scope-functions.md)
+    - [apply](functional-programming/02-scope-functions.md)
+    - [let](functional-programming/03-let-also-run.md)
+    - [also](functional-programming/03-let-also-run.md)
+    - [run](functional-programming/03-let-also-run.md)
+14. **Coroutines**
+    - [What are Coroutines? How are they related to Threads?](coroutines/01-introduction.md)
+    - [launch, async, runBlocking](coroutines/02-launch-async.md)
+    - [withContext, withTimeoutOrNull](coroutines/04-context-dispatchers.md)
+    - [Suspending function](coroutines/01-introduction.md)
+    - [Cancellation and Timeouts](coroutines/03-exception-handling.md)
+    - [Cooperative suspending functions and isActive flag](coroutines/01-introduction.md)
+    - [Exception Handling in Coroutines](coroutines/03-exception-handling.md)
+    - [Sequential execution of suspending function in Coroutines](coroutines/02-launch-async.md)
+    - [Concurrency within Coroutine](coroutines/02-launch-async.md)
+    - [lazy 'async'](coroutines/02-launch-async.md)
+    - [CoroutineScope and CoroutineContext](coroutines/04-context-dispatchers.md)
+    - [Dispatchers: Confined dispatcher, Default Dispatcher, and Unconfined Dispatcher](coroutines/04-context-dispatchers.md)
+15. **Conclusion** 
 
-## 🎯 How to Use This Documentation
+## Getting Started
 
-1. **Start with the topic you want to learn**
-2. **Read the detailed explanation** in the `.md` file
-3. **Study the code examples** in the linked `.kt` files
-4. **Practice with the exercises** provided
-5. **Follow the learning path** to progress systematically
+1. Clone this repository
+2. Open the project in IntelliJ IDEA
+3. Start with the basics and work your way up
+4. Each topic has detailed documentation and examples
 
-## 📖 Learning Path
+## Source Code
 
-### **🚀 Beginner Level (Start Here)**
+All source code examples are located in the `src/` directory and are linked from the documentation.
 
-#### **Basics**
-- [Hello World - Your First Program](basics/01-hello-world.md) → [Code](src/01_hello_world.kt)
-- [Variables and Data Types](basics/02-variables-data-types.md) → [Code](src/04_variables_data_types.kt)
-- [Comments and Documentation](basics/03-comments.md) → [Code](src/03_comments.kt)
-- [Data Types Deep Dive](basics/04-data-types.md) → [Code](src/07_data_types.kt)
-- [String Interpolation](basics/05-string-interpolation.md) → [Code](src/08_string_interpolation.kt)
-- [Ranges and Sequences](basics/06-ranges.md) → [Code](src/09_ranges.kt)
+## Authors 
 
-#### **Control Flow**
-- [If Expressions](control-flow/01-if-expressions.md) → [Code](src/10_if_expression.kt)
-- [When Expressions](control-flow/02-when-expressions.md) → [Code](src/11_when_expression.kt)
-- [For Loops](control-flow/03-for-loops.md) → [Code](src/12_for_loop.kt)
-- [While Loops](control-flow/04-while-loops.md) → [Code](src/13_while_loop.kt)
-- [Break and Continue](control-flow/05-break-continue.md) → [Code](src/15_break_keyword.kt)
-
-### **⚙️ Intermediate Level**
-
-#### **Functions**
-- [Functions Basics](functions/01-functions-basics.md) → [Code](src/17_functions_basics.kt)
-- [Functions as Expressions](functions/02-functions-expressions.md) → [Code](src/18_functions_as_expressions.kt)
-- [Extension Functions](functions/03-extension-functions.md) → [Code](src/22_extension_function_one.kt)
-- [Infix Functions](functions/04-infix-functions.md) → [Code](src/24_infix_function.kt)
-- [Named Parameters](functions/05-named-parameters.md) → [Code](src/21_named_parameters.kt)
-
-#### **Object-Oriented Programming**
-- [Classes and Constructors](oop/01-classes-constructors.md) → [Code](src/26_class_and_constructor.kt)
-- [Inheritance](oop/02-inheritance.md) → [Code](src/27_inheritance.kt)
-- [Method Overriding](oop/03-method-overriding.md) → [Code](src/28_overriding_methods_properties.kt)
-- [Abstract Classes](oop/04-abstract-classes.md) → [Code](src/30_abstract_class.kt)
-- [Interfaces](oop/05-interfaces.md) → [Code](src/31_interface.kt)
-- [Data Classes](oop/06-data-classes.md) → [Code](src/32_data_class.kt)
-- [Enums, Sealed Classes, and Companion Objects](oop/07-enums-sealed-classes.md) → [Code](src/34_1_enum_class, 34_2_sealed_class.kt, 34_companion_object.kt)
-
-### **🔧 Advanced Level**
-
-#### **Functional Programming**
-- [Lambdas and Higher-Order Functions](functional-programming/01-lambdas.md) → [Code](src/35_lambdas_higher_order_functions.kt)
-- [Scope Functions](functional-programming/02-scope-functions.md) → [Code](src/39_with_apply_functions.kt)
-- [Advanced Scope Functions](functional-programming/03-let-also-run.md) → [Code](src/51_also_scope_function.kt, 52_let_scope_function.kt, 53_run_scope_function.kt)
-- [Predicates](functional-programming/04-predicates.md) → [Code](src/45_predicate.kt)
-
-#### **Advanced Topics**
-- [Kotlin-Java Interoperability](advanced/01-kotlin-interoperability.md) → [Code](src/MyJavaFile.java, myKotlinInteroperability.kt)
-
-#### **Collections**
-- [Arrays](collections/01-arrays.md) → [Code](src/40_arrays.kt)
-- [Lists](collections/02-lists.md) → [Code](src/41_list.kt)
-- [Maps and HashMaps](collections/03-maps.md) → [Code](src/42_map_hashmap.kt)
-- [Sets and HashSets](collections/04-sets.md) → [Code](src/43_set_hashset.kt)
-- [Filter, Map, and Sorting](collections/05-filter-map-sorting.md) → [Code](src/44_filter_map_sorting.kt)
-
-#### **Null Safety**
-- [Null Safety](null-safety/01-null-safety.md) → [Code](src/46_null_safety.kt)
-- [Lateinit and Lazy](null-safety/02-lateinit-lazy.md) → [Code](src/47_lateinit_keyword.kt)
-
-#### **Coroutines**
-- [Introduction to Coroutines](coroutines/01-introduction.md) → [Code](src/61_first_coroutine.kt)
-- [Launch and Async](coroutines/02-launch-async.md) → [Code](src/64_launch_coroutine_builder.kt)
-- [Exception Handling](coroutines/03-exception-handling.md) → [Code](src/70_exception_handling.kt)
-- [Context and Dispatchers](coroutines/04-context-dispatchers.md) → [Code](src/78_CoroutineContext_and_Dispatchers.kt)
-
-## 🎓 Recommended Learning Order
-
-### **Week 1: Basics**
-1. Start with [Hello World](basics/01-hello-world.md)
-2. Learn [Variables and Data Types](basics/02-variables-data-types.md)
-3. Understand [Control Flow](control-flow/01-if-expressions.md)
-4. Practice [Loops](control-flow/03-for-loops.md)
-
-### **Week 2: Functions & OOP**
-1. Master [Functions](functions/01-functions-basics.md)
-2. Learn [Classes](oop/01-classes-constructors.md)
-3. Understand [Inheritance](oop/02-inheritance.md)
-4. Explore [Data Classes](oop/06-data-classes.md)
-
-### **Week 3: Advanced Concepts**
-1. Dive into [Functional Programming](functional-programming/01-lambdas.md)
-2. Master [Collections](collections/01-arrays.md)
-3. Learn [Null Safety](null-safety/01-null-safety.md)
-4. Practice [Coroutines](coroutines/01-introduction.md)
-
-## 🛠️ Prerequisites
-
-- Basic programming concepts (variables, functions, loops)
-- No prior Kotlin experience required
-- IntelliJ IDEA or Android Studio recommended
-
-## 📝 How to Use
-
-1. **Choose a topic** from the learning path above
-2. **Read the detailed explanation** in the `.md` file
-3. **Study the code examples** in the linked `.kt` file
-4. **Run the examples** to see them in action
-5. **Complete the exercises** to reinforce learning
-6. **Move to the next topic** following the learning path
-
-## 🤝 Contributing
-
-Found an error or want to improve something? Contributions are welcome!
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
+* **Sriyank Siddhartha** 
 
 ---
 
-**Happy Learning! 🎉**
+Happy Learning! 🚀
