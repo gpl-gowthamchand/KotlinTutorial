@@ -29,7 +29,7 @@ By the end of this lesson, you will be able to:
 
 Let's examine the exception handling examples:
 
-**📁 File:** [70_exception_handling.kt](../src/70_exception_handling.kt)
+**📁 File:** [70_exception_handling.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/70_exception_handling.kt)
 
 ## 🔍 Code Breakdown
 

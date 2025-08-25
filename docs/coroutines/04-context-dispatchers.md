@@ -29,7 +29,7 @@ By the end of this lesson, you will be able to:
 
 Let's examine the context and dispatcher examples:
 
-**📁 File:** [78_CoroutineContext_and_Dispatchers.kt](../src/78_CoroutineContext_and_Dispatchers.kt)
+**📁 File:** [78_CoroutineContext_and_Dispatchers.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/78_CoroutineContext_and_Dispatchers.kt)
 
 ## 🔍 Code Breakdown
 

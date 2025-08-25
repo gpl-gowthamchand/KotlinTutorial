@@ -29,7 +29,7 @@ By the end of this lesson, you will be able to:
 
 Let's examine the launch and async examples:
 
-**📁 File:** [64_launch_coroutine_builder.kt](../src/64_launch_coroutine_builder.kt)
+**📁 File:** [64_launch_coroutine_builder.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/64_launch_coroutine_builder.kt)
 
 ## 🔍 Code Breakdown
 

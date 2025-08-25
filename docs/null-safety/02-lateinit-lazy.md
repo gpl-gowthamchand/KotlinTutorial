@@ -29,7 +29,7 @@ By the end of this lesson, you will be able to:
 
 Let's examine the lateinit and lazy examples:
 
-**📁 File:** [47_lateinit_keyword.kt](../src/47_lateinit_keyword.kt)
+**📁 File:** [47_lateinit_keyword.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/47_lateinit_keyword.kt)
 
 ## 🔍 Code Breakdown
 

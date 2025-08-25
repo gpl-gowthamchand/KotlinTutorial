@@ -30,8 +30,8 @@ By the end of this lesson, you will be able to:
 
 Let's examine the interoperability examples:
 
-**📁 File:** [MyJavaFile.java](../src/MyJavaFile.java)
-**📁 File:** [myKotlinInteroperability.kt](../src/myKotlinInteroperability.kt)
+**📁 File:** [MyJavaFile.java](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/MyJavaFile.java)
+**📁 File:** [myKotlinInteroperability.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/myKotlinInteroperability.kt)
 
 ## 🔍 Code Breakdown
 

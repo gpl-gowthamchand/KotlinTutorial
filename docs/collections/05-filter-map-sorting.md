@@ -29,7 +29,7 @@ By the end of this lesson, you will be able to:
 
 Let's examine the functional operations examples:
 
-**📁 File:** [44_filter_map_sorting.kt](../src/44_filter_map_sorting.kt)
+**📁 File:** [44_filter_map_sorting.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/44_filter_map_sorting.kt)
 
 ## 🔍 Code Breakdown
 

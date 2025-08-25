@@ -29,7 +29,7 @@ By the end of this lesson, you will be able to:
 
 Let's examine the lambdas and higher-order functions examples:
 
-**📁 File:** [35_lambdas_higher_order_functions.kt](../src/35_lambdas_higher_order_functions.kt)
+**📁 File:** [35_lambdas_higher_order_functions.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/35_lambdas_higher_order_functions.kt)
 
 ## 🔍 Code Breakdown
 

@@ -29,7 +29,7 @@ By the end of this lesson, you will be able to:
 
 Let's examine the sets example:
 
-**📁 File:** [43_set_hashset.kt](../src/43_set_hashset.kt)
+**📁 File:** [43_set_hashset.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/43_set_hashset.kt)
 
 ## 🔍 Code Breakdown
 

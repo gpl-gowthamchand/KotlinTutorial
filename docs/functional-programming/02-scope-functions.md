@@ -29,7 +29,7 @@ By the end of this lesson, you will be able to:
 
 Let's examine the scope functions examples:
 
-**📁 File:** [39_with_apply_functions.kt](../src/39_with_apply_functions.kt)
+**📁 File:** [39_with_apply_functions.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/39_with_apply_functions.kt)
 
 ## 🔍 Code Breakdown
 

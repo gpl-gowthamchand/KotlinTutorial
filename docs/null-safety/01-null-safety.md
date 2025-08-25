@@ -29,7 +29,7 @@ By the end of this lesson, you will be able to:
 
 Let's examine the null safety examples:
 
-**📁 File:** [46_null_safety.kt](../src/46_null_safety.kt)
+**📁 File:** [46_null_safety.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/46_null_safety.kt)
 
 ## 🔍 Code Breakdown
 

@@ -29,7 +29,7 @@ By the end of this lesson, you will be able to:
 
 Let's examine the maps example:
 
-**📁 File:** [42_map_hashmap.kt](../src/42_map_hashmap.kt)
+**📁 File:** [42_map_hashmap.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/42_map_hashmap.kt)
 
 ## 🔍 Code Breakdown
 

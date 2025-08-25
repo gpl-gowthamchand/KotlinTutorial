@@ -29,7 +29,7 @@ By the end of this lesson, you will be able to:
 
 Let's examine the lists example:
 
-**📁 File:** [41_list.kt](../src/41_list.kt)
+**📁 File:** [41_list.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/41_list.kt)
 
 ## 🔍 Code Breakdown
 
