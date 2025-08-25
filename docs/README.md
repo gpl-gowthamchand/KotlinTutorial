@@ -45,12 +45,18 @@ Welcome to the comprehensive Kotlin learning guide! This documentation is organi
 - [Abstract Classes](oop/04-abstract-classes.md) → [Code](src/30_abstract_class.kt)
 - [Interfaces](oop/05-interfaces.md) → [Code](src/31_interface.kt)
 - [Data Classes](oop/06-data-classes.md) → [Code](src/32_data_class.kt)
+- [Enums, Sealed Classes, and Companion Objects](oop/07-enums-sealed-classes.md) → [Code](src/34_1_enum_class, 34_2_sealed_class.kt, 34_companion_object.kt)
 
 ### **🔧 Advanced Level**
 
 #### **Functional Programming**
 - [Lambdas and Higher-Order Functions](functional-programming/01-lambdas.md) → [Code](src/35_lambdas_higher_order_functions.kt)
 - [Scope Functions](functional-programming/02-scope-functions.md) → [Code](src/39_with_apply_functions.kt)
+- [Advanced Scope Functions](functional-programming/03-let-also-run.md) → [Code](src/51_also_scope_function.kt, 52_let_scope_function.kt, 53_run_scope_function.kt)
+- [Predicates](functional-programming/04-predicates.md) → [Code](src/45_predicate.kt)
+
+#### **Advanced Topics**
+- [Kotlin-Java Interoperability](advanced/01-kotlin-interoperability.md) → [Code](src/MyJavaFile.java, myKotlinInteroperability.kt)
 
 #### **Collections**
 - [Arrays](collections/01-arrays.md) → [Code](src/40_arrays.kt)
@@ -67,6 +73,7 @@ Welcome to the comprehensive Kotlin learning guide! This documentation is organi
 - [Introduction to Coroutines](coroutines/01-introduction.md) → [Code](src/61_first_coroutine.kt)
 - [Launch and Async](coroutines/02-launch-async.md) → [Code](src/64_launch_coroutine_builder.kt)
 - [Exception Handling](coroutines/03-exception-handling.md) → [Code](src/70_exception_handling.kt)
+- [Context and Dispatchers](coroutines/04-context-dispatchers.md) → [Code](src/78_CoroutineContext_and_Dispatchers.kt)
 
 ## 🎓 Recommended Learning Order
 
