@@ -97,4 +97,8 @@ Learn Kotlin Programming, its basics and Fundamentals from scratch.
 
 ## Authors 
 
-* **Sriyank Siddhartha**
+* **Sriyank Siddhartha** - Original creator
+
+## Contributors
+
+* **GPL Gowtham chand** ([@gpl-gowthamchand](https://github.com/gpl-gowthamchand)) - Documentation, explanations, and content organization
