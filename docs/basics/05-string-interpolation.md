@@ -43,7 +43,7 @@ class Rectangle {
 }
 ```
 
-**📁 File:** [08_string_interpolation.kt](src/08_string_interpolation.kt)
+**📁 File:** [08_string_interpolation.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/08_string_interpolation.kt)
 
 ## 🔍 Code Breakdown
 

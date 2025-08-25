@@ -45,7 +45,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-**📁 File:** [07_data_types.kt](src/07_data_types.kt)
+**📁 File:** [07_data_types.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/07_data_types.kt)
 
 ## 🔍 Code Breakdown
 

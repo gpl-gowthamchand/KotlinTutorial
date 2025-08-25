@@ -40,7 +40,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-**📁 File:** [21_named_parameters.kt](src/21_named_parameters.kt)
+**📁 File:** [21_named_parameters.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/21_named_parameters.kt)
 
 ## 🔍 Code Breakdown
 

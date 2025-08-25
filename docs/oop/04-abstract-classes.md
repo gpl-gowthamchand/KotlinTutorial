@@ -58,7 +58,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-**📁 File:** [30_abstract_class.kt](src/30_abstract_class.kt)
+**📁 File:** [30_abstract_class.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/30_abstract_class.kt)
 
 ## 🔍 Code Breakdown
 

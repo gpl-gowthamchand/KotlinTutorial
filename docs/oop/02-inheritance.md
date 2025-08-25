@@ -73,7 +73,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-**📁 File:** [27_inheritance.kt](src/27_inheritance.kt)
+**📁 File:** [27_inheritance.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/27_inheritance.kt)
 
 ## 🔍 Code Breakdown
 

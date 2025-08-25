@@ -29,7 +29,7 @@ By the end of this lesson, you will be able to:
 
 Let's examine the predicate examples:
 
-**📁 File:** [45_predicate.kt](../src/45_predicate.kt)
+**📁 File:** [45_predicate.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/45_predicate.kt)
 
 ## 🔍 Code Breakdown
 

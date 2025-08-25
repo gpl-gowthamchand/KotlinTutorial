@@ -60,7 +60,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-**📁 File:** [28_overriding_methods_properties.kt](src/28_overriding_methods_properties.kt)
+**📁 File:** [28_overriding_methods_properties.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/28_overriding_methods_properties.kt)
 
 ## 🔍 Code Breakdown
 

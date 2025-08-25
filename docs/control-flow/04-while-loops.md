@@ -41,7 +41,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-**📁 File:** [13_while_loop.kt](src/13_while_loop.kt)
+**📁 File:** [13_while_loop.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/13_while_loop.kt)
 
 ## 🔍 Code Breakdown
 

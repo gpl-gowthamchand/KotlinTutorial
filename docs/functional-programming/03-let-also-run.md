@@ -29,9 +29,9 @@ By the end of this lesson, you will be able to:
 
 Let's examine the scope function examples:
 
-**📁 File:** [52_let_scope_function.kt](../src/52_let_scope_function.kt)
-**📁 File:** [53_run_scope_function.kt](../src/53_run_scope_function.kt)
-**📁 File:** [51_also_scope_function.kt](../src/51_also_scope_function.kt)
+**📁 File:** [52_let_scope_function.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/52_let_scope_function.kt)
+**📁 File:** [53_run_scope_function.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/53_run_scope_function.kt)
+**📁 File:** [51_also_scope_function.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/51_also_scope_function.kt)
 
 ## 🔍 Code Breakdown
 

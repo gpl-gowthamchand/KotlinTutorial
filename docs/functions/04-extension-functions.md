@@ -55,8 +55,8 @@ fun Int.greaterValue(other: Int): Int {
 ```
 
 **📁 Files:** 
-- [22_extension_function_one.kt](src/22_extension_function_one.kt)
-- [23_extension_function_two.kt](src/23_extension_function_two.kt)
+- [22_extension_function_one.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/22_extension_function_one.kt)
+- [23_extension_function_two.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/23_extension_function_two.kt)
 
 ## 🔍 Code Breakdown
 

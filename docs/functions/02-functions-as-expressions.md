@@ -39,7 +39,7 @@ fun max(a: Int, b: Int): Int = if (a > b) {
 }
 ```
 
-**📁 File:** [18_functions_as_expressions.kt](src/18_functions_as_expressions.kt)
+**📁 File:** [18_functions_as_expressions.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/18_functions_as_expressions.kt)
 
 ## 🔍 Code Breakdown
 

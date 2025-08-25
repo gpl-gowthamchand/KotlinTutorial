@@ -41,7 +41,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-**📁 File:** [15_break_keyword.kt](src/15_break_keyword.kt)
+**📁 File:** [15_break_keyword.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/15_break_keyword.kt)
 
 ## 🔍 Code Breakdown
 

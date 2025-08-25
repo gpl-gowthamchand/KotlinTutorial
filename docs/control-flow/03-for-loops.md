@@ -46,7 +46,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-**📁 File:** [12_for_loop.kt](src/12_for_loop.kt)
+**📁 File:** [12_for_loop.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/12_for_loop.kt)
 
 ## 🔍 Code Breakdown
 
