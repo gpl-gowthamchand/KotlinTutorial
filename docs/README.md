@@ -95,21 +95,6 @@ Learn Kotlin Programming, its basics and Fundamentals from scratch.
     - [Dispatchers: Confined dispatcher, Default Dispatcher, and Unconfined Dispatcher](coroutines/04-context-dispatchers.md)
 15. **Conclusion** 
 
-## Getting Started
-
-1. Clone this repository
-2. Open the project in IntelliJ IDEA
-3. Start with the basics and work your way up
-4. Each topic has detailed documentation and examples
-
-## Source Code
-
-All source code examples are located in the `src/` directory and are linked from the documentation.
-
 ## Authors 
 
-* **Sriyank Siddhartha** 
-
----
-
-Happy Learning! 🚀
+* **Sriyank Siddhartha**
