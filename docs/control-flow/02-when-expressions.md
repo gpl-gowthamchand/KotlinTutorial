@@ -45,7 +45,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-**📁 File:** [11_when_expression.kt](src/11_when_expression.kt)
+**📁 File:** [11_when_expression.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/11_when_expression.kt)
 
 ## 🔍 Code Breakdown
 

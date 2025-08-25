@@ -61,7 +61,7 @@ fun add(a: Int, b: Int): Int {
 }
 ```
 
-**📁 File:** [17_functions_basics.kt](src/17_functions_basics.kt)
+**📁 File:** [17_functions_basics.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/17_functions_basics.kt)
 
 ## 🔍 Code Breakdown
 

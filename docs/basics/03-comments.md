@@ -42,7 +42,7 @@ fun main(args: Array<String>) {     // This is inline comment ...
 }
 ```
 
-**📁 File:** [03_comments.kt](src/03_comments.kt)
+**📁 File:** [03_comments.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/03_comments.kt)
 
 ## 🔍 Code Breakdown
 

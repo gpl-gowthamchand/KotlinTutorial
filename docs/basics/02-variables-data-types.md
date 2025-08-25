@@ -59,7 +59,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-**📁 File:** [04_variables_data_types.kt](src/04_variables_data_types.kt)
+**📁 File:** [04_variables_data_types.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/04_variables_data_types.kt)
 
 ## 🔍 Code Breakdown
 

@@ -30,7 +30,7 @@ By the end of this lesson, you will be able to:
 
 Let's examine the coroutines examples:
 
-**📁 File:** [61_first_coroutine.kt](../src/61_first_coroutine.kt)
+**📁 File:** [61_first_coroutine.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/61_first_coroutine.kt)
 
 ## 🔍 Code Breakdown
 

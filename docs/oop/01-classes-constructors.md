@@ -49,7 +49,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-**📁 File:** [26_class_and_constructor.kt](src/26_class_and_constructor.kt)
+**📁 File:** [26_class_and_constructor.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/26_class_and_constructor.kt)
 
 ## 🔍 Code Breakdown
 

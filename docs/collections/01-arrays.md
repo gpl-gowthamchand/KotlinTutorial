@@ -29,7 +29,7 @@ By the end of this lesson, you will be able to:
 
 Let's examine the arrays example:
 
-**📁 File:** [40_arrays.kt](../src/40_arrays.kt)
+**📁 File:** [40_arrays.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/40_arrays.kt)
 
 ## 🔍 Code Breakdown
 

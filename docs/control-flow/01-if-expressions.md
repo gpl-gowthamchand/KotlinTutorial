@@ -45,7 +45,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-**📁 File:** [10_if_expression.kt](src/10_if_expression.kt)
+**📁 File:** [10_if_expression.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/10_if_expression.kt)
 
 ## 🔍 Code Breakdown
 

@@ -34,7 +34,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-**📁 File:** [01_hello_world.kt](src/01_hello_world.kt)
+**📁 File:** [01_hello_world.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/01_hello_world.kt)
 
 ## 🔍 Code Breakdown
 
@@ -94,7 +94,7 @@ fun functionName(parameters): returnType {
 ### **Step 1: Open IntelliJ IDEA**
 1. Launch IntelliJ IDEA
 2. Open the project folder
-3. Navigate to `src/01_hello_world.kt`
+3. Navigate to [01_hello_world.kt](https://github.com/gpl-gowthamchand/KotlinTutorial/blob/feature/documentation-improvements/src/01_hello_world.kt)
 
 ### **Step 2: Run the Program**
 1. Right-click on the file
