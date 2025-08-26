@@ -14,10 +14,8 @@ Learn Kotlin Programming, its basics and Fundamentals from scratch.
     - [Comments](basics/03-comments.md)
 4. Constants, Variables and Data Types
     - [Data Types Deep Dive](basics/04-data-types.md)
-    - [Ranges and Sequences](basics/05-string-interpolation.md)
 5. Control Flow Statements 
-    - [IF ELSE](control-flow/01-if-expressions.md)
-    - [IF Expressions](control-flow/01-if-expressions.md)
+    - [IF ELSE and IF Expressions](control-flow/01-if-expressions.md)
     - [WHEN Expressions](control-flow/02-when-expressions.md)
 6. Loop Control Statements 
     - [What are Iterators?](control-flow/06-iterators.md)
@@ -37,9 +35,8 @@ Learn Kotlin Programming, its basics and Fundamentals from scratch.
     - [Named Parameters](functions/03-named-parameters.md)
     - [Tailrec Functions](functions/07-tailrec-functions.md) 
 8. Object Oriented Programming in Kotlin 
-    - [Defining Class and creating Objects](oop/01-classes-constructors.md)
+    - [Defining Class, creating Objects, and Constructors](oop/01-classes-constructors.md)
     - [INIT block](oop/05-init-block.md)
-    - [Primary and Secondary Constructors](oop/01-classes-constructors.md)
     - [Properties ( Field variables )](oop/06-properties.md)
     - [Inheritance](oop/02-inheritance.md)
     - [Method and Property Overriding](oop/03-method-overriding.md)
