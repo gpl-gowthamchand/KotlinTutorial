@@ -3,7 +3,7 @@ Learn Kotlin Programming, its basics and Fundamentals from scratch.
 
 ## Topics to be covered
 0. Overview
-    - [Course introduction, prerequisites and software required](docs/basics/01-hello-world.md)
+    - [Course introduction, prerequisites and software required](docs/00-course-introduction.md)
 1. Installation
     - [Install required softwares for Windows, MAC and Linux ( Ubuntu )](docs/installation.md)
 2. Getting Started with Kotlin Programming
