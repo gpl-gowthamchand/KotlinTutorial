@@ -5,7 +5,7 @@ Learn Kotlin Programming, its basics and Fundamentals from scratch.
 0. Overview
     - [Course introduction, prerequisites and software required](basics/01-hello-world.md)
 1. Installation
-    - Install required softwares for Windows, MAC and Linux ( Ubuntu )
+    - [Install required softwares for Windows, MAC and Linux ( Ubuntu )](installation.md)
 2. Getting Started with Kotlin Programming
     - [Run your first app in Kotlin](basics/01-hello-world.md)
 3. Exploring Data Types and Variables 
@@ -14,48 +14,48 @@ Learn Kotlin Programming, its basics and Fundamentals from scratch.
     - [Comments](basics/03-comments.md)
 4. Constants, Variables and Data Types
     - [Data Types Deep Dive](basics/04-data-types.md)
-    - [Ranges and Sequences](basics/06-ranges.md)
+    - [Ranges and Sequences](basics/05-string-interpolation.md)
 5. Control Flow Statements 
     - [IF ELSE](control-flow/01-if-expressions.md)
     - [IF Expressions](control-flow/01-if-expressions.md)
     - [WHEN Expressions](control-flow/02-when-expressions.md)
 6. Loop Control Statements 
-    - What are Iterators?
+    - [What are Iterators?](control-flow/06-iterators.md)
     - [FOR Loop and how it works](control-flow/03-for-loops.md)
     - [WHILE Loop](control-flow/04-while-loops.md)
     - [DO WHILE Loop](control-flow/04-while-loops.md)
     - [BREAK statements](control-flow/05-break-continue.md)
     - [CONTINUE keyword](control-flow/05-break-continue.md)
-    - Labelled FOR Loop 
+    - [Labelled FOR Loop](control-flow/07-labelled-loops.md) 
 7. Functions and Interoperability 
     - [Declaring functions](functions/01-functions-basics.md)
     - [Interoperability with Java code](advanced/01-kotlin-interoperability.md)
-    - [Function as Expressions](functions/02-functions-expressions.md)
-    - [Extension Functions](functions/03-extension-functions.md)
-    - [Infix Functions](functions/04-infix-functions.md)
-    - Default Parameters
-    - [Named Parameters](functions/05-named-parameters.md)
-    - Tailrec Functions 
+    - [Function as Expressions](functions/02-functions-as-expressions.md)
+    - [Extension Functions](functions/04-extension-functions.md)
+    - [Infix Functions](functions/05-infix-functions.md)
+    - [Default Parameters](functions/06-default-parameters.md)
+    - [Named Parameters](functions/03-named-parameters.md)
+    - [Tailrec Functions](functions/07-tailrec-functions.md) 
 8. Object Oriented Programming in Kotlin 
     - [Defining Class and creating Objects](oop/01-classes-constructors.md)
-    - INIT block
+    - [INIT block](oop/05-init-block.md)
     - [Primary and Secondary Constructors](oop/01-classes-constructors.md)
-    - Properties ( Field variables )
+    - [Properties ( Field variables )](oop/06-properties.md)
     - [Inheritance](oop/02-inheritance.md)
     - [Method and Property Overriding](oop/03-method-overriding.md)
-    - Polymorphism 
+    - [Polymorphism](oop/08-polymorphism.md)
     - [Abstract Class, Property and Method](oop/04-abstract-classes.md)
-    - [Interface](oop/05-interfaces.md)
-    - [Data Class](oop/06-data-classes.md)
-    - Object Declaration
+    - [Interface](oop/09-interface.md)
+    - [Data Class](oop/10-data-class.md)
+    - [Object Declaration](oop/11-object-declaration.md)
     - [Enum class](oop/07-enums-sealed-classes.md)
     - [Sealed class](oop/07-enums-sealed-classes.md)
-    - [Companion Object](oop/07-enums-sealed-classes.md)
+    - [Companion Object](oop/12-companion-object.md)
 9. Functional Programming in Koltin
     - [Lambdas](functional-programming/01-lambdas.md)
-    - [Higher-Order Functions](functional-programming/01-lambdas.md)
-    - Closures
-    - 'it' keyword
+    - [Higher-Order Functions](functional-programming/05-higher-order-functions.md)
+    - [Closures](functional-programming/06-closures.md)
+    - ['it' keyword](functional-programming/07-it-keyword.md)
     - ['with' function](functional-programming/02-scope-functions.md)
     - ['apply' function](functional-programming/02-scope-functions.md)
     - [let, also, run](functional-programming/03-let-also-run.md)
@@ -70,7 +70,7 @@ Learn Kotlin Programming, its basics and Fundamentals from scratch.
     - [Predicates: all, any, find, count](functional-programming/04-predicates.md)
 12. Kotlin NULL Safety
     - [Safe call](null-safety/01-null-safety.md)
-    - with Let
+    - [with Let](null-safety/01-null-safety.md)
     - [Elvis](null-safety/01-null-safety.md)
     - [Lateinit keyword](null-safety/02-lateinit-lazy.md)
     - [Lazy delegation and 'lateinit' vs. 'lazy'](null-safety/02-lateinit-lazy.md)
@@ -93,8 +93,12 @@ Learn Kotlin Programming, its basics and Fundamentals from scratch.
     - [lazy 'async'](coroutines/02-launch-async.md)
     - [CoroutineScope and CoroutineContext](coroutines/04-context-dispatchers.md)
     - [Dispatchers: Confined dispatcher, Default Dispatcher, and Unconfined Dispatcher](coroutines/04-context-dispatchers.md)
-15. Conclusion 
+15. [Conclusion](conclusion.md) 
 
 ## Authors 
 
-* **Sriyank Siddhartha**
+* **Sriyank Siddhartha** - Original creator
+
+## Contributors
+
+* **GPL Gowtham chand** ([@gpl-gowthamchand](https://github.com/gpl-gowthamchand)) - Documentation, explanations, and content organization
